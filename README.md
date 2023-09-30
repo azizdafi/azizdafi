@@ -2,7 +2,7 @@
 
 # Results-Driven Project Management Professional with Data Science Expertise
 
-## Agile Methodologies | Data Analysis | Project Delivery | Google Project Management Certificate
+## Machine Learning engineer | Passionate Data Science Intern | turning raw data into actionable insights | Python | SQL | Data Analysis | Machine Learning | Power BI | Looker Studio | Google Project Management Certified
 
 ### Hi there 👋
 
